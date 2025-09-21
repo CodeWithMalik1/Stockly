@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "id": "e00fa9e3-0bbb-444f-9731-89ed94922d7f",
+      "name": "1",
+      "price": 0
+    },
+    {
+      "id": "1d901bfa-e6b1-47a4-8936-06626257cb97",
+      "name": "w",
+      "price": 1
+    },
+    {
+      "id": "601dae27-5c5d-4e52-a1e9-a9d046255036",
+      "name": "1",
+      "price": 2
+    }
+  ],
+  "sales": [],
+  "users": [
+    {
+      "id": "1e81f900-e37e-48ac-a7f3-ec7cbd358389",
+      "username": "admin",
+      "passwordHash": "$2a$10$Llc1RvJtuuvfM2w3U6hGu.LEic67rse0N5uzznCCV60ryZQrWIgTi"
+    }
+  ],
+  "settings": {
+    "salesPasswordHash": "$2a$10$3uT0XQma5fVP.uGV0sPPAejwwB91WpTTRdpkCfpPvYTGkjMQP2wXq"
+  }
+}
